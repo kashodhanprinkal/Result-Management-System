@@ -1,7 +1,5 @@
 # Result Management System
-
-## Overview
-The Result Management System is a web application designed to efficiently manage and display student results. It allows administrators to add, update, and view student records, as well as generate reports.
+The Result Management System is a web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) to simplify the management and access of student academic results. Designed for educational institutions, this system provides secure access for admins to manage students, courses, and results, and enables students to view their own results seamlessly.
 
 ## Features
 - User-friendly interface for managing student results.
